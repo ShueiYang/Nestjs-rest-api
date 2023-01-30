@@ -1,6 +1,6 @@
 # Building Nestjs REST Api
 
-A RESTful Api with end to end test using a modern and powerful node js framework Nestjs, learning from Vladimir and thanks to his amazing tutorial.
+A RESTful Api with end to end test using a modern and powerful node js framework Nestjs, also combined with Typescript, and Prisma with a Docker postgres database for testing, learning from Vladimir and thanks to his amazing tutorial.
 
 # 
 
